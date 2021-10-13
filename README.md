@@ -24,3 +24,10 @@ Noctura Fan on Hotend
 
 Dual 5015 Parts Cooler
 
+
+* There are also leftover configuration in pre/post and macros for single head 2 color mixing hotend.  I have since removed this as there really isn't enough reason to use mixing colors in a single nozzle (for me at least).
+
+TODO:
+Dual Z rod (in progress)
+
+Rails on X
